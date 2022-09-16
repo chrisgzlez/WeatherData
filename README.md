@@ -3,6 +3,11 @@
     XAVIER PRIMOI MARTINEZ
     IVAN QUINTANS GONZALEZ
     
+# INFORMACION:
+    LUGAR: SANTIAGO DE COMPOSTELA
+    FECHA: 22/12/2021
+    COMPANIA: USC
+    
 # NOTA:
   ## [1]
     La realización del proyecto fué entre los tres. La parte desarrollada por mi (Cristian Novoa Gonzalez) fué la que 
@@ -11,9 +16,6 @@
     Existe una pequeña perdida de memoria por falta de un free el cuál no se pudo corregir antes de la versión final. No afecta 
     a la ejecución del programa, solo a su manejo de memoria.
 
-LUGAR: SANTIAGO DE COMPOSTELA
-FECHA: 22/12/2021
-COMPANIA: USC
 # Sumario del Proyecto
     Sumario del Proyecto original tal cual se nos fué entregado
 # CARPETA PROYECTO_1:
