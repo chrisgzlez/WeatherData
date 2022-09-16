@@ -5,9 +5,11 @@
     
 # NOTA:
   ## [1]
-    La realización del proyecto fué entre los tres. La parte desarrollada por mi (Cristian Novoa Gonzalez) fué la que envuelve las funciones 3,4,5 así como el diseño del programa en sí y su estructura en los que participamos los 3.
+    La realización del proyecto fué entre los tres. La parte desarrollada por mi (Cristian Novoa Gonzalez) fué la que 
+    envuelve las funciones 3,4,5 así como el diseño del programa en sí y su estructura en los que participamos los 3.
   ## [2]
-    Existe una pequeña perdida de memoria por falta de un free el cuál no se pudo corregir antes de la versión final. No afecta a la ejecución del programa, solo a su manejo de memoria.
+    Existe una pequeña perdida de memoria por falta de un free el cuál no se pudo corregir antes de la versión final. No afecta 
+    a la ejecución del programa, solo a su manejo de memoria.
 
 LUGAR: SANTIAGO DE COMPOSTELA
 FECHA: 22/12/2021
