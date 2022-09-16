@@ -11,13 +11,13 @@ COMPANIA: USC
 
 
 
-CARPETA PROYECTO_2:
+# CARPETA PROYECTO_2:
 Se encuentran los siguientes archivos:
-# CODIGO
+## CODIGO
 		-demo.c (o codigo fuente da nosa demo)
 		-libmeteo.a (libreria compilada)
 		-meteo.h (a cabecera da libreria)
-# PRACTICA
+## PRACTICA
 		-demo.exe (o executable creado en cmd[2]): toma un argumento na linea de comandos
 		-archivos.csv (cos datos metereoloxicos)
 		-archivo.txt (cos nomes dos archivos csv)
